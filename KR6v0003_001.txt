@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:03.313831
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:05
 #+TITLE: 禪策問答
 #+PROPERTY: CBETA_ID W01n0002
 #+PROPERTY: ID KR6v0003
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 題解¶
 整理者　方廣錩¶
 ¶
 
@@ -36,7 +36,7 @@
 及參加討論會的其他諸位先生表示感謝。¶
 ¶
 
-錄文¶
+* 錄文¶
 ¶
 
  禪策問答一卷¶
