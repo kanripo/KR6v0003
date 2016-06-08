@@ -1,17 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:03.313831
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:05
 #+TITLE: 禪策問答
 #+PROPERTY: CBETA_ID W01n0002
 #+PROPERTY: ID KR6v0003
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 01, No. 002
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0003_W_001-0045a> 
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 禪策問答¶
 整理者　方廣錩¶
 ¶
 
@@ -36,10 +36,9 @@
 及參加討論會的其他諸位先生表示感謝。¶
 ¶
 
-錄文¶
+* 〔錄文〕¶
 ¶
-
- 禪策問答一卷¶
+禪策問答一卷¶
 ¶
 
 問：禪有幾種法門？¶
@@ -226,7 +225,7 @@
 答：得意忘言，亦無好惡是非。言二毒未除，小智無知，身心¶
 俱闇。或生卑賤，習氣未除，惡業緣牽，還歸舊道。利根宿貴，心遊¶
 曠遠，識達苦空，體解真如，合無生理。故經云：羅睺是佛之子，嬌慢¶
-陵天。如來一乘，柔和更無違犯，名為羅睺密行。¶
+陵天。如來一乘，柔和更無違犯，名為羅睺蜜行。¶
 ¶
 
 〔錄文完〕
